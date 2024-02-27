@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a full time student at Sapienza - University of Rome</b> 」
+    「 I am a full time student 👨🏻‍🎓 at Sapienza - University of Rome</b> 」
     <br>
     <br>
   </samp>
@@ -29,7 +29,7 @@
  
 <p>
   
- 🔍 I'm a dedicated third-year student pursuing a Bachelor's degree in <b>Applied Computer Science and Artificial Intelligence @ Sapienza </b>  - University of Rome. My academic journey has been an exciting exploration of cutting-edge technologies and their real-world applications. My goal is to leverage my strong foundation in computer science and my growing expertise in <b>artificial intelligence</b> to become a <b>Machine Learning Engineer</b>. I'm fascinated by the endless possibilities AI offers to solve complex problems and make a positive impact on society.
+ 🔍 I'm a dedicated third-year student 👨🏻‍🎓 pursuing a Bachelor's degree in <b>Applied Computer Science and Artificial Intelligence @ Sapienza </b>  - University of Rome. My academic journey has been an exciting exploration of cutting-edge technologies and their real-world applications. My goal is to leverage my strong foundation in computer science 👨🏻‍💻 and my growing expertise in <b>artificial intelligence</b> to become a <b>Machine Learning Engineer</b>. I'm fascinated by the endless possibilities AI 🤖 offers to solve complex problems and make a positive impact on society.
 
 </p>
 
