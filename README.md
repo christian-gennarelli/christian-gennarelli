@@ -11,6 +11,7 @@
     「 I am a full time student 👨🏻‍🎓 at Sapienza - University of Rome</b> 」
     <br>
     <br>
+   📫 Contact me: **gennarellichristian02@gmail.com**
   </samp>
 </p>
 
@@ -18,9 +19,9 @@
  <a href="https://linkedin.com/in/christian-gennarelli" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a>
-  <a href="https://twitter.com/Gennaa___" target="_blank">
+ <!--<a href="https://twitter.com/Gennaa___" target="_blank">
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
- </a>
+ </a>-->
 </p>
 <br />
 
