@@ -11,7 +11,7 @@
     「 I am a full time student 👨🏻‍🎓 at Sapienza - University of Rome</b> 」
     <br>
     <br>
-   📫 Contact me: **gennarellichristian02@gmail.com**
+   📫 Contact me: gennarellichristian02@gmail.com
   </samp>
 </p>
 
