@@ -8,7 +8,9 @@
 
 <p align="center"> 
   <samp>
-    「 I am a full time student 👨🏻‍🎓 at Sapienza - University of Rome</b> 」
+    「 👨‍💻  Aspiring Machine/Deep Learning Engineer <br> 
+       📚 Final Year Student @ Sapienza - University of Rome <br>
+       🧠 Course: Applied Computer Science and Artificial Intelligence</b> 」
     <br>
     <br>
    📫 Contact me: gennarellichristian02@gmail.com
