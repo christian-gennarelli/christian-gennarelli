@@ -65,7 +65,7 @@
 [![StellarClassification](https://github-readme-stats.vercel.app/api/pin/?username=christian-gennarelli&repo=StellarClassification&border_color=FDDA0D&bg_color=0D1117&title_color=FDDA0D&text_color=FFFFFF&icon_color=FDDA0D)](https://github.com/christian-gennarelli/StellarClassification)
 [![TheBattleOfSexes](https://github-readme-stats.vercel.app/api/pin/?username=christian-gennarelli&repo=TheBattleOfSexes&border_color=FDDA0D&bg_color=0D1117&title_color=FDDA0D&text_color=FFFFFF&icon_color=FDDA0D)](https://github.com/christian-gennarelli/TheBattleOfSexes)
 [![WASAPhoto](https://github-readme-stats.vercel.app/api/pin/?username=christian-gennarelli&repo=WASAPhoto&border_color=FDDA0D&bg_color=0D1117&title_color=FDDA0D&text_color=FFFFFF&icon_color=FDDA0D)](https://github.com/christian-gennarelli/WASAPhoto)
-[![WASAPhoto](https://github-readme-stats.vercel.app/api/pin/?username=christian-gennarelli&repo=CFDMs&border_color=FDDA0D&bg_color=0D1117&title_color=FDDA0D&text_color=FFFFFF&icon_color=FDDA0D)](https://github.com/christian-gennarelli/CFDMs)
+[![CFDMs](https://github-readme-stats.vercel.app/api/pin/?username=christian-gennarelli&repo=CFDMs&border_color=FDDA0D&bg_color=0D1117&title_color=FDDA0D&text_color=FFFFFF&icon_color=FDDA0D)](https://github.com/christian-gennarelli/CFDMs)
 [![ProfessorAdvisor](https://github-readme-stats.vercel.app/api/pin/?username=LeoRamill&repo=Human-Computer-Interaction-Project&border_color=FDDA0D&bg_color=0D1117&title_color=FDDA0D&text_color=FFFFFF&icon_color=FDDA0D)](https://github.com/LeoRamill/Human-Computer-Interaction-Project)
 
 <p align="left">
