@@ -9,7 +9,7 @@
 <p align="center"> 
   <samp>
     「 👨‍💻  Aspiring Machine/Deep Learning Engineer <br> 
-       📚 Final Year Student @ Sapienza - University of Rome <br>
+       📚 New Grad @ Sapienza - University of Rome <br>
        🧠 Course: Applied Computer Science and Artificial Intelligence</b> 」
     <br>
     <br>
