@@ -32,7 +32,7 @@
  
 <p>
   
- 🔍 I'm a Bsc. graduate 👨🏻‍🎓 in <b>Applied Computer Science and Artificial Intelligence and Msc. student in <b>Computer Science</b> at <b> La Sapienza  - University of Rome </b>. My academic journey has been an exciting exploration of cutting-edge technologies and their real-world applications. My goal is to leverage my strong foundation in computer science 👨🏻‍💻 and my growing expertise in <b>artificial intelligence</b> to become a <b>Machine Learning Engineer</b>. I'm fascinated by the endless possibilities AI 🤖 offers to solve complex problems and make a positive impact on society. <br>
+ 🔍 I'm a Bsc. graduate 👨🏻‍🎓 in <b>Applied Computer Science and Artificial Intelligence</b> and Msc. student in <b>Computer Science</b> at <b> La Sapienza  - University of Rome </b>. My academic journey has been an exciting exploration of cutting-edge technologies and their real-world applications. My goal is to leverage my strong foundation in computer science 👨🏻‍💻 and my growing expertise in <b>artificial intelligence</b> to become a <b>Machine Learning Engineer</b>. I'm fascinated by the endless possibilities AI 🤖 offers to solve complex problems and make a positive impact on society. <br>
 Throughout my journey as a Software Engineer @ Whitehall AI Reply, I also gained hands-on experience in developing intuitive and efficient front-end web applications. Most notabli, I had the opportunity to work for the Italian Minister of Economy and Finances - via SOGEI (Società Generale Informatica) and Agenzia delle Entrate.
 
 </p>
