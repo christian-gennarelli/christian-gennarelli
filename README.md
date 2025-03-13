@@ -8,9 +8,11 @@
 
 <p align="center"> 
   <samp>
-    「 <!-- 👨‍💻  Aspiring Machine/Deep Learning Engineer <br>  -->
-       📚 New Grad @ Sapienza - University of Rome <br>
-       🧠 Applied Computer Science and AI </b> 」
+    「 <!-- 👨‍💻  Aspiring Machine/Deep Learning Engineer --> 
+       <b>🎓 Bsc. in Applied Computer Science and AI @ La Sapienza - University of Rome <br>
+          🧠 Msc. student in Computer Science @ La Sapienza - University of Rome <br>
+          🛠️ Software Engineer @ Reply - Whitehall AI 
+       </b> 」
     <br>
     <br>
    📫 Contact me: gennarellichristian02@gmail.com
@@ -33,7 +35,7 @@
 <p>
   
  🔍 I'm a Bsc. graduate 👨🏻‍🎓 in <b>Applied Computer Science and Artificial Intelligence</b> and Msc. student in <b>Computer Science</b> at <b> La Sapienza  - University of Rome </b>. My academic journey has been an exciting exploration of cutting-edge technologies and their real-world applications. My goal is to leverage my strong foundation in computer science 👨🏻‍💻 and my growing expertise in <b>artificial intelligence</b> to become a <b>Machine Learning Engineer</b>. I'm fascinated by the endless possibilities AI 🤖 offers to solve complex problems and make a positive impact on society. <br>
-Throughout my journey as a Software Engineer @ Whitehall AI Reply, I also gained hands-on experience in developing intuitive and efficient front-end web applications. Most notabli, I had the opportunity to work for the Italian Minister of Economy and Finances - via SOGEI (Società Generale Informatica) and Agenzia delle Entrate.
+Throughout my journey as a Software Engineer @ Reply - Whitehall AI, I also gained hands-on experience in developing intuitive and efficient front-end web applications. Most notably, I had the opportunity to work for the Italian Minister of Economy and Finances - via SOGEI (Società Generale Informatica) and Agenzia delle Entrate.
 
 </p>
 
@@ -53,7 +55,6 @@ Throughout my journey as a Software Engineer @ Whitehall AI Reply, I also gained
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -73,9 +74,9 @@ Throughout my journey as a Software Engineer @ Whitehall AI Reply, I also gained
 
 # Projects
 [![StellarClassification](https://github-readme-stats.vercel.app/api/pin/?username=christian-gennarelli&repo=StellarClassification&border_color=FDDA0D&bg_color=0D1117&title_color=FDDA0D&text_color=FFFFFF&icon_color=FDDA0D)](https://github.com/christian-gennarelli/StellarClassification)
-[![TheBattleOfSexes](https://github-readme-stats.vercel.app/api/pin/?username=christian-gennarelli&repo=TheBattleOfSexes&border_color=FDDA0D&bg_color=0D1117&title_color=FDDA0D&text_color=FFFFFF&icon_color=FDDA0D)](https://github.com/christian-gennarelli/TheBattleOfSexes)
-[![WASAPhoto](https://github-readme-stats.vercel.app/api/pin/?username=christian-gennarelli&repo=WASAPhoto&border_color=FDDA0D&bg_color=0D1117&title_color=FDDA0D&text_color=FFFFFF&icon_color=FDDA0D)](https://github.com/christian-gennarelli/WASAPhoto)
 [![CFDMs](https://github-readme-stats.vercel.app/api/pin/?username=christian-gennarelli&repo=CFDMs&border_color=FDDA0D&bg_color=0D1117&title_color=FDDA0D&text_color=FFFFFF&icon_color=FDDA0D)](https://github.com/christian-gennarelli/CFDMs)
+[![WASAPhoto](https://github-readme-stats.vercel.app/api/pin/?username=christian-gennarelli&repo=WASAPhoto&border_color=FDDA0D&bg_color=0D1117&title_color=FDDA0D&text_color=FFFFFF&icon_color=FDDA0D)](https://github.com/christian-gennarelli/WASAPhoto)
+[![TheBattleOfSexes](https://github-readme-stats.vercel.app/api/pin/?username=christian-gennarelli&repo=TheBattleOfSexes&border_color=FDDA0D&bg_color=0D1117&title_color=FDDA0D&text_color=FFFFFF&icon_color=FDDA0D)](https://github.com/christian-gennarelli/TheBattleOfSexes)
 [![ProfessorAdvisor](https://github-readme-stats.vercel.app/api/pin/?username=christian-gennarelli&repo=ProfessorAdvisor&border_color=FDDA0D&bg_color=0D1117&title_color=FDDA0D&text_color=FFFFFF&icon_color=FDDA0D)](https://github.com/christian-gennarelli/ProfessorAdvisor)
 
 <p align="left">
