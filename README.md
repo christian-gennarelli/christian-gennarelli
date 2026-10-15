@@ -10,9 +10,8 @@
   <samp>
     「 <!-- 👨‍💻  Aspiring Machine/Deep Learning Engineer --> 
        <b>🎓 Bsc. in Applied Computer Science and AI @ La Sapienza - University of Rome <br>
-          🧠 Msc. student in Computer Science @ La Sapienza - University of Rome <br>
-          🛠️ Software Engineer @ Reply - Whitehall AI 
-       </b> 」
+          🛠️ Software Engineer @ Telespazio 
+       </b>
     <br>
     <br>
    📫 Contact me: gennarellichristian02@gmail.com
