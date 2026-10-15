@@ -34,8 +34,9 @@
  
 <p>
   
- 🔍 I'm a Bsc. graduate 👨🏻‍🎓 in <b>Applied Computer Science and Artificial Intelligence</b> and Msc. student in <b>Computer Science</b> at <b> La Sapienza  - University of Rome </b>. My academic journey has been an exciting exploration of cutting-edge technologies and their real-world applications. My goal is to leverage my strong foundation in computer science 👨🏻‍💻 and my growing expertise in <b>artificial intelligence</b> to become a <b>Machine Learning Engineer</b>. I'm fascinated by the endless possibilities AI 🤖 offers to solve complex problems and make a positive impact on society. <br>
+ 🔍 I'm a Bsc. graduate 👨🏻‍🎓 in <b>Applied Computer Science and Artificial Intelligence</b> at <b> La Sapienza  - University of Rome </b>. My academic journey has been an exciting exploration of cutting-edge technologies and their real-world applications. My goal is to leverage my strong foundation in computer science 👨🏻‍💻 and my growing expertise in <b>artificial intelligence</b> to become a <b>Machine Learning Engineer</b>. I'm fascinated by the endless possibilities AI 🤖 offers to solve complex problems and make a positive impact on society. <br>
 Throughout my journey as a Software Engineer @ Reply - Whitehall AI, I also gained hands-on experience in developing intuitive and efficient front-end web applications. Most notably, I had the opportunity to work for the Italian Minister of Economy and Finances - via SOGEI (Società Generale Informatica) and Agenzia delle Entrate.
+As a Software Enginner @ Telespazio, I have the opportunity to work in the aerospace field (which I love since I was just a kid) by developing digitals and interactive solutions for important clients such as ASI - Agenzia Spaziale Italiana, ESA - European Space Agency and many more.
 
 </p>
 
